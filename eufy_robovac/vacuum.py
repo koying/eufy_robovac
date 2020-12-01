@@ -39,6 +39,10 @@ MODEL_CONFIG = {
     'T2118': {
         'fan_speeds': FAN_SPEEDS,
         'support': SUPPORT_ROBOVAC_T2118
+    },
+    'T2128': {
+        'fan_speeds': FAN_SPEEDS,
+        'support': SUPPORT_ROBOVAC_T2118
     }
 }
 
